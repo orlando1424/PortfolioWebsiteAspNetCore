@@ -5,11 +5,15 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
+}
+body {
+        font-family: 'Roboto', sans-serif;
 }
 
 .btn-primary {
