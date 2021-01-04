@@ -13,8 +13,11 @@
         "packagesPath": "/Users/orlandolopez/.nuget/packages/",
         "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/orlandolopez/.config/NuGet/NuGet.Config"
+          "/Users/orlandolopez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
