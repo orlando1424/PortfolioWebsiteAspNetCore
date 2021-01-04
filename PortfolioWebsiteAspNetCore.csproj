@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Projects\" />
+    <Folder Include="Views\Contact\" />
+  </ItemGroup>
 </Project>
