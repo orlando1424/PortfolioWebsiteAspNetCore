@@ -24,3 +24,21 @@ footer {
     background-color: #EAEAEA;
     color: #4F6D7A;
 }
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../images/code.gif");
+    border-bottom: 0.05rem solid #e5e5e5;
+}
+
+.display-3 {
+    color: #DD6E42;
+}
+
+.blockquote {
+    font-size: 20px;
+}
+
+.about-lead {
+    font-size: 25px;
+}
