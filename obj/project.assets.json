@@ -8,28 +8,31 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/orlandolopez/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\2000207986\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
       "projectName": "PortfolioWebsiteAspNetCore",
-      "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore.csproj",
-      "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-      "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/",
+      "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
+      "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "/Users/orlandolopez/.config/NuGet/NuGet.Config"
+        "C:\\Users\\2000207986\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -73,3 +73,42 @@ D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcore
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CopyComplete
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Projects.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.exe
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.deps.json
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.json
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.dev.json
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.dll
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csprojAssemblyReference.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfo.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.Manifest.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.xml
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\PortfolioWebsiteAspNetCore.styles.css
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.input.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.output.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Projects.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.genruntimeconfig.cache
+C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CopyComplete
