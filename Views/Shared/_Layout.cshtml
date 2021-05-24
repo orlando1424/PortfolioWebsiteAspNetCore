@@ -4,8 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - PortfolioWebsiteAspNetCore</title>
-
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="icon" type="image/x-icon" href="~/images/Icon.png" />
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
           rel="stylesheet" />
@@ -17,8 +16,9 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.css"
           rel="stylesheet" />
 
-
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/main.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
@@ -43,8 +43,8 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
                         </li>
                         @*<li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>*@
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>*@
 
 
                     </ul>
@@ -57,44 +57,54 @@
             @RenderBody()
         </main>
     </div>
+   
 
-    <footer class="text-center text-white fixed-bottom" style="background-color: #f1f1f1;">
-        <!-- Grid Container-->
-        <div class="container pt-4">
-            <!--Section: Social Media -->
-            <section class="mb-4">
-                <!--Github-->
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1"
-                   href="#!"
-                   role="button"
-                   data-mdb-ripple-color="dark"><i class="fab fa-github"></i></a>
+<footer class="text-center text-white fixed-bottom" style="background-color: #f1f1f1;">
+    <!-- Grid container -->
+    <div class="container pt-4">
+        <!-- Section: Social media -->
+        <section class="mb-4">
 
+            <!-- Instagram -->
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1"
+               href="#!"
+               role="button"
+               data-mdb-ripple-color="dark">
+                <i class="fab fa-instagram"></i>
+            </a>
 
-                <!-- Linkedin -->
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1"
-                   href="#!"
-                   role="button"
-                   data-mdb-ripple-color="dark">
-                    <i class="fab fa-linkedin"></i>
-                </a>
+            <!-- Linkedin -->
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1"
+               href="#!"
+               role="button"
+               data-mdb-ripple-color="dark">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <!-- Github -->
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1"
+               href="#!"
+               role="button"
+               data-mdb-ripple-color="dark">
+                <i class="fab fa-github"></i>
+            </a>
 
-                <!-- Instagram -->
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1"
-                   href="#!"
-                   role="button"
-                   data-mdb-ripple-color="dark">
-                    <i class="fab fa-instagram"></i>
-                </a>
-            </section>
-        </div>
-
-        <!-- Copyright -->
-        <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            &copy; 2020 - Orlando Lopez - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-        <!-- Copyright -->
-       
-    </footer>
+            <!-- Discord -->
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1"
+               href="#!"
+               role="button"
+               data-mdb-ripple-color="dark">
+                <i class="fab fa-discord"></i>
+            </a>
+        </section>
+        <!-- Section: Social media -->
+    </div>
+    <!-- Grid container -->
+    <!-- Copyright -->
+    <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        &copy; 2020 - Orlando Lopez - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    <!-- Copyright -->
+</footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <!-- MDB -->
