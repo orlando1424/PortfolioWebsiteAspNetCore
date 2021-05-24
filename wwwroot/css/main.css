@@ -1,2 +1,26 @@
 ﻿body {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
+}
+
+.navbar {
+    background-color: #DD6E42;
+    color: #4F6D7A;
+}
+
+/*.navbar-brand {
+    color: #46494C;
+}*/
+
+.nav-item {
+    color: #4F6D7A;
+}
+footer {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
+}
+
+.copyright {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
 }
