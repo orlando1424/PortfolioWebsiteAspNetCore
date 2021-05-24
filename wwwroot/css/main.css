@@ -15,13 +15,13 @@
 .nav-item {
     color: #4F6D7A;
 }
-footer {
+.main-footer {
     background-color: #EAEAEA;
     color: #4F6D7A;
 }
 
 .copyright {
-    background-color: #EAEAEA;
+    background-color: #DD6E42;
     color: #4F6D7A;
 }
 
@@ -41,4 +41,52 @@ footer {
 
 .about-lead {
     font-size: 25px;
+}
+
+.album {
+    min-height: 50rem; /* Can be removed; just added for demo purposes */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #EAEAEA;
+}
+
+.card {
+    float: left;
+    width: 33.333%;
+    padding: 0.75rem;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: #EAEAEA;
+}
+ .card > img {
+        margin-bottom: 0.75rem;
+        width: 200px;
+        height: 220px;
+    }
+
+.card-text {
+    font-size: 120%;
+    font-weight: bold;
+    color: #0c0a0aec;
+}
+
+.project-card {
+    float: left;
+    width: 33.333%;
+    padding: 0.75rem;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: #EAEAEA;
+}
+
+.project-card-text {
+    font-size: 120%;
+    font-weight: bold;
+    color: #0c0a0aec;
+}
+
+.project-card > img {
+    margin-bottom: 0.75rem;
+    width: 400px;
+    height: 250px;
 }
