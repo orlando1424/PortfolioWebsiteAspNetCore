@@ -61,7 +61,8 @@
 
     </div>
  </div>
-<br />
+
+
 <br />
 <br />
 <h2>Programming Languages</h2>
@@ -106,7 +107,6 @@
 
     </div>
 
-<br />
 <br />
 <br />
 
@@ -165,12 +165,43 @@
 
             </div>
         </div>
-
-
-
-
-
-
-
     </div>
 
+ </div>
+
+<div class="contact">
+
+    <div>
+        <h2>Contact Me!</h2>
+    </div>
+
+    <form method="post" asp-action="Contact" role="form">
+
+        <!--Name Input -->
+
+        <div class="form-outline mb-4">
+            <input type="text" id="name" class="form-control" />
+            <label class="form-label" for="name">Name</label>
+        </div>
+
+        <!--Email Input -->
+        <div class="form-outline mb-4">
+            <input type="email" id="email" class="form-control" />
+            <label class="form-label" for="email">Email address</label>
+        </div>
+
+        <!--Message Input-->
+        <div class="form-outline mb-4">
+            <textarea class="form-control" id="message" rows="4"></textarea>
+            <label class="form-label" for="message">Message</label>
+        </div>
+
+        <!--Submit Button -->
+        <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
+    </form>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+</div>
