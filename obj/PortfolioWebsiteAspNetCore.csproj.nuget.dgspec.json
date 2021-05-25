@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj": {}
+    "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj": {
+    "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
         "projectName": "PortfolioWebsiteAspNetCore",
-        "projectPath": "D:\\Repos\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
-        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore\\obj\\",
+        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
+        "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\2000207986\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
