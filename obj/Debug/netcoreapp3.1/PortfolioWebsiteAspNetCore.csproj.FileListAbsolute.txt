@@ -1,3 +1,155 @@
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.exe
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.deps.json
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.runtimeconfig.json
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.runtimeconfig.dev.json
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csprojAssemblyReference.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/staticwebassets/PortfolioWebsiteAspNetCore.StaticWebAssets.Manifest.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/staticwebassets/PortfolioWebsiteAspNetCore.StaticWebAssets.xml
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/scopedcss/bundle/PortfolioWebsiteAspNetCore.styles.css
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.TagHelpers.input.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.TagHelpers.output.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Projects.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.genruntimeconfig.cache
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CopyComplete
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.exe
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.deps.json
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.runtimeconfig.json
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.runtimeconfig.dev.json
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.dll
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfo.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.MvcApplicationPartsAssemblyInfo.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/staticwebassets/PortfolioWebsiteAspNetCore.StaticWebAssets.Manifest.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/staticwebassets/PortfolioWebsiteAspNetCore.StaticWebAssets.xml
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/scopedcss/bundle/PortfolioWebsiteAspNetCore.styles.css
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.TagHelpers.input.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.TagHelpers.output.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Projects.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.genruntimeconfig.cache
+D:/Repos/PortfolioWebsiteAspNetCore/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CopyComplete
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/MailKit.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/MimeKit.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Success.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.deps.json
@@ -7,7 +159,82 @@
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
-/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csprojAssemblyReference.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.AssemblyInfo.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
@@ -22,6 +249,8 @@
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Success.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Projects.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
@@ -30,161 +259,7 @@
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CopyComplete
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.genruntimeconfig.cache
-/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csproj.CopyComplete
-/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Projects.cshtml.g.cs
-/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.exe
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.deps.json
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.json
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.dev.json
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csprojAssemblyReference.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.Manifest.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.xml
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\PortfolioWebsiteAspNetCore.styles.css
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.input.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.output.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Projects.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.genruntimeconfig.cache
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CopyComplete
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.exe
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.deps.json
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.json
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.runtimeconfig.dev.json
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.dll
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfoInputs.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.AssemblyInfo.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CoreCompileInputs.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.MvcApplicationPartsAssemblyInfo.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorAssemblyInfo.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.Manifest.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioWebsiteAspNetCore.StaticWebAssets.xml
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\PortfolioWebsiteAspNetCore.styles.css
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.input.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.TagHelpers.output.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorCoreGenerate.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Projects.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.RazorTargetAssemblyInfo.cs
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.Views.pdb
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.dll
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.pdb
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.genruntimeconfig.cache
-D:\Repos\PortfolioWebsiteAspNetCore\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\PortfolioWebsiteAspNetCore.csproj.CopyComplete
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\PortfolioWebsite\PortfolioWebsiteAspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Success.cshtml.g.cs
