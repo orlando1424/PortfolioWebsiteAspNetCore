@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "9BjgEAq3WblPBDLwglh6e+VEk3JXdbNnJ/5zFceRvuprEVFlQ1+7m1qV+/JR3+K5+7jAqDvLSNnavUf5eqkTag==",
+=======
+  "dgSpecHash": "aqov+g4qp6RzJtKiY92jzZiIawQtOf6PnENHS3XyMw0C1qKYlzAB7PJ8ekNFCuTAnZMKi45Z04M1CkjQ5RKLgw==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\2000207986\\Documents\\Repos\\PortfolioWebsite\\PortfolioWebsiteAspNetCore\\PortfolioWebsiteAspNetCore.csproj",
   "expectedPackageFiles": [
