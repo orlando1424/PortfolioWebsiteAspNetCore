@@ -263,3 +263,4 @@ C:/Users/2000207986/Documents/Repos/PortfolioWebsite/PortfolioWebsiteAspNetCore/
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.dll
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.pdb
 /Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.genruntimeconfig.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PortfolioWebsiteAspNetCore/obj/Debug/netcoreapp3.1/PortfolioWebsiteAspNetCore.csprojAssemblyReference.cache
