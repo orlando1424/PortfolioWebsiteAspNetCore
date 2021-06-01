@@ -20,11 +20,17 @@
 .main-footer {
     background-color: #EAEAEA;
     color: #4F6D7A;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 2.5rem;
 }
 
 .copyright {
     background-color: #DD6E42;
     color: #4F6D7A;
+    text-align: center;
 }
 
 .jumbotron {
@@ -91,6 +97,15 @@
     margin-bottom: 0.75rem;
     width: 400px;
     height: 250px;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
 }
 
 /*div.form {

@@ -4,7 +4,9 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="index">
+
+<div id="page-container">
+<div id="content-wrap">
 
 <div class="jumbotron">
     <h1 class="display-3">Welcome!</h1>
@@ -60,21 +62,82 @@
             </footer>
         </blockquote>
 
-        <h4></h4>
-        <p></p>
-
-        </div>
+      
+      </div>
 
     </div>
- </div>
+ 
 
+
+    <hr />
+
+<!--Skills Section-->
+<div class="container-fluid">
+    <div class="card w-100">
+        <h3 class="card-header">Skills</h3>
+        <div class="card-block">
+            <p class="card-text">C#</p>
+            <div class="progress">
+                <div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
+            </div>
+            <br />
+            <p class="card-text">ASP.NET Core/MVC</p>
+            <div class="progress">
+                <div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
+            </div>
+            <br />
+            <p class="card-text">HTML</p>
+            <div class="progress">
+                <div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">95%</div>
+            </div>
+            <br />
+
+            <p class="card-text">CSS</p>
+            <div class="progress">
+                <div class="progress-bar bg-success progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+            </div>
+
+            <br />
+            <p class="card-text">JavaScript</p>
+            <div class="progress">
+                <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+            </div>
+
+            <br />
+
+            <p class="card-text">SQL</p>
+            <div class="progress">
+                <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">65%</div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <br />
 <br />
-<h2>Programming Languages</h2>
+<br />
+<br />
+<br />
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<h2>Programming Languages</h2>-->
 <!-- Skills Section -->
 
-<div class="skills">
+<!--<div class="skills">
 
     <div class="album text-muted">
         <div class="container">
@@ -111,103 +174,8 @@
 
     </div>
 
-    </div>
-
-<br />
-<br />
-
-<h2>Projects</h2>
-
-<!--Projects section-->
-
-<div class="projects">
+    </div>-->
 
 
-    <div class="album text-muted">
-        <div class="container">
 
-            <div class="row">
-                <div class="project-card">
-                    <img src="/images/projectwork/Mortgage calculator.gif" alt="Mortgage Calculator app">
-                    <p class="project-card-text">
-                        Simple Mortgage Calculator App
-                        <br>
-                        <a href="https://bitbucket.org/olopez_14/mortgage-calculator/src/master/">Source Code</a>
-                    </p>
-                </div>
-                <div class="project-card">
-                    <img src="/images/projectwork/School management system.jpg" alt="School Management System">
-                    <p class="project-card-text">
-                        School Management System
-                        <br>
-                        <a href="https://bitbucket.org/olopez_14/capstone-project/src/master/">Source Code</a>
-                    </p>
-                </div>
-                <div class="project-card">
-                    <img src="/images/projectwork/Paintingwebsite.gif" alt="Painting Business Website">
-                    <p class="project-card-text">
-                        A painting business website that includes a contact page that uses mailkit to send an email.
-                        <br>
-                        <a href="https://github.com/orlando1424/PaintingBusinessWebPage">Source Code</a>
-                    </p>
-                </div>
 
-                <div class="project-card">
-                    <img src="/images/projectwork/emailpassword.jpg" alt="Email & Password generator">
-                    <p class="project-card-text">
-                        Email & Password generator
-                        <br>
-                        <a href="https://bitbucket.org/olopez_14/java-final-project/src/79e5d28e30ff670fc4acac5edec1321325ad78c3/?at=master">Source Code</a>
-                    </p>
-                </div>
-                <div class="project-card">
-                    <img src="/images/projectwork/StudentManager.gif" alt="Student Management System">
-                    <p class="project-card-text">
-                        CRUD app in ASP.NET Core 
-                        <br>
-                        <a href="https://github.com/orlando1424/StudentManager">Source Code</a>
-                    </p>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
- </div>
-
-<div class="contact">
-
-    <div>
-        <h2>Contact Me!</h2>
-    </div>
-
-    <form method="post" asp-action="Contact" asp-controller="Home" role="form">
-
-        <!--Name Input -->
-
-        <div class="form-outline mb-4">
-            <input type="text" id="name" class="form-control" asp-for="Name" />
-            <label class="form-label" for="name" asp-for="Name">Name</label>
-        </div>
-
-        <!--Email Input -->
-        <div class="form-outline mb-4">
-            <input type="email" id="email" class="form-control" asp-for="Email"/>
-            <label class="form-label" for="email" asp-for="Email">Email address</label>
-        </div>
-
-        <!--Message Input-->
-        <div class="form-outline mb-4">
-            <textarea class="form-control" id="message" rows="4" asp-for="Message"></textarea>
-            <label class="form-label" for="message" asp-for="Message">Message</label>
-        </div>
-
-        <!--Submit Button -->
-        <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
-    </form>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-</div>

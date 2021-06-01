@@ -1,0 +1,43 @@
+﻿@model PortfolioWebsiteAspNetCore.Models.ContactFormModel
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact Me!</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Contact" asp-controller="Home" role="form">
+
+        <!--Name Input -->
+
+        <div class="form-outline mb-4">
+            <input type="text" id="name" class="form-control" asp-for="Name" />
+            <label class="form-label" for="name" asp-for="Name">Name</label>
+        </div>
+
+        <!--Email Input -->
+        <div class="form-outline mb-4">
+            <input type="email" id="email" class="form-control" asp-for="Email"/>
+            <label class="form-label" for="email" asp-for="Email">Email address</label>
+        </div>
+
+        <!--Message Input-->
+        <div class="form-outline mb-4">
+            <textarea class="form-control" id="message" rows="4" asp-for="Message"></textarea>
+            <label class="form-label" for="message" asp-for="Message">Message</label>
+        </div>
+
+        <!--Submit Button -->
+        <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
+    </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to Home</a>
+</div>
+

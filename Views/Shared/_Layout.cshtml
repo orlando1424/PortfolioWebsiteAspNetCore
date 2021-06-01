@@ -36,14 +36,14 @@
                         @*<li class="nav-item">
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>*@
-                        <li class="nav-item">
+                        @*<li class="nav-item">
                             <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Languages">Languages</a>
+                        </li>*@
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Projects">Projects</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Projects" asp-action="Projects">Projects</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
                         </li>
                         @*<li class="nav-item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -62,7 +62,7 @@
     </div>
    
 
-<footer class=" main-footer text-center fixed-bottom">
+<footer class=" main-footer">
     <!-- Grid container -->
     <div class="container pt-4">
         <!-- Section: Social media -->
@@ -112,7 +112,7 @@
     </div>
     <!-- Grid container -->
     <!-- Copyright -->
-    <div class=" copyright text-center  p-3">
+    <div class=" copyright p-3">
         &copy; 2020 - Orlando Lopez - <a  asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         <p class="float-right">
             <a class="text-dark" href="#">Back to top</a>
