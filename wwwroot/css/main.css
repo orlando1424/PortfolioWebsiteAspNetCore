@@ -28,7 +28,7 @@
 }
 
 .copyright {
-    background-color: #DD6E42;
+    background-color: #EAEAEA;
     color: #4F6D7A;
     text-align: center;
 }
@@ -108,7 +108,7 @@
     padding-bottom: 2.5rem;
 }
 
-/*div.form {
+div.form {
     display: block;
     text-align: center;
     height: 100%;
@@ -121,4 +121,4 @@ form {
     margin-right: auto;
     text-align: center;
     color: black;
-}*/
+}

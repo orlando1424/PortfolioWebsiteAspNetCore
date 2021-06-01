@@ -4,12 +4,12 @@
     ViewData["Title"] = "Contact";
 }
 
-<h1>Contact Me!</h1>
+<h1 class="text-center">Contact Me!</h1>
 
 
 <hr />
-<div class="row">
-    <div class="col-md-4">
+<div class="form">
+    
         <form method="post" asp-action="Contact" asp-controller="Home" role="form">
 
         <!--Name Input -->
@@ -34,10 +34,40 @@
         <!--Submit Button -->
         <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
     </form>
-    </div>
+    
 </div>
 
-<div>
+<hr />
+
+<div class="text-center">
+    <h3>Also follow me on my social media channels!</h3>
+    <!-- Instagram -->
+    <a class="btn btn-primary" style="background-color: #ac2bac;" href="#" role="button">
+        <i class="fab fa-instagram"></i>
+    </a>
+
+    <!-- Linkedin -->
+<a class="btn btn-primary" style="background-color: #0082ca;" href="https://www.linkedin.com/in/orlando-lopez-b699a418b/" role="button"
+  ><i class="fab fa-linkedin-in"></i
+></a>
+
+    <!-- Github -->
+<a class="btn btn-primary" style="background-color: #333333;" href="https://github.com/orlando1424" role="button"
+  ><i class="fab fa-github"></i
+></a>
+
+        <!-- BitBucket -->
+<a class="btn btn-primary" style="background-color: #2684ff;" href="https://bitbucket.org/olopez_14/" role="button"
+  ><i class="fab fa-bitbucket"></i
+></a>
+
+       <!-- Discord -->
+<a class="btn btn-primary" style="background-color: #7289da;" href="https://discordapp.com/users/orlandolop12!#0597/" role="button"
+  ><i class="fab fa-discord"></i
+></a>
+</div>
+
+<div class="float-right">
     <a asp-action="Index">Back to Home</a>
 </div>
 
