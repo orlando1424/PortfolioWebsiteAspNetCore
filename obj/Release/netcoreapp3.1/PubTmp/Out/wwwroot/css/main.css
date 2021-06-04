@@ -1,0 +1,124 @@
+﻿body {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
+}
+
+.navbar {
+    background-color: #DD6E42;
+    color: #4F6D7A;
+    /*position: fixed;*/
+
+}
+
+/*.navbar-brand {
+    color: #46494C;
+}*/
+
+.nav-item {
+    color: #4F6D7A;
+}
+.main-footer {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 2.5rem;
+}
+
+.copyright {
+    background-color: #EAEAEA;
+    color: #4F6D7A;
+    text-align: center;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../images/code.gif");
+    border-bottom: 0.05rem solid #e5e5e5;
+}
+
+.display-3 {
+    color: #DD6E42;
+}
+
+.blockquote {
+    font-size: 20px;
+}
+
+.about-lead {
+    font-size: 25px;
+}
+
+.album {
+    min-height: 50rem; /* Can be removed; just added for demo purposes */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #EAEAEA;
+}
+
+.card {
+    float: left;
+    width: 33.333%;
+    padding: 0.75rem;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: #EAEAEA;
+}
+ .card > img {
+        margin-bottom: 0.75rem;
+        width: 200px;
+        height: 220px;
+    }
+
+.card-text {
+    font-size: 120%;
+    font-weight: bold;
+    color: #0c0a0aec;
+}
+
+.project-card {
+    float: left;
+    width: 33.333%;
+    padding: 0.75rem;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: #EAEAEA;
+}
+
+.project-card-text {
+    font-size: 120%;
+    font-weight: bold;
+    color: #0c0a0aec;
+}
+
+.project-card > img {
+    margin-bottom: 0.75rem;
+    width: 400px;
+    height: 250px;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+div.form {
+    display: block;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+
+}
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+}
